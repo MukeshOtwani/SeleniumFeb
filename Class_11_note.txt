@@ -1,0 +1,37 @@
+1- You can have n number xml file
+2- You can have only 1 xml and within that xml you can seperate the test suite
+3- I just need to run failed scenario
+
+	Fix each and every test- run them
+	Fix every scenario and run as suite again
+	
+	testng-failed.xml- This xml will have information about failed scenario
+
+
+CrossBrowser Test- With seq, With Para
+
+Parallel- Make sure that test are independent > Test Suite should be independent
+
+Maven Surefire Plugin- This is only used for testing phas
+
+clean- delete target folder
+
+install- Install all dependency if any missing + it will run the test + generate reso (war,jar,tar etc)
+
+test- it will run the test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
